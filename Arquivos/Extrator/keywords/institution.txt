@@ -1,0 +1,5 @@
+university
+univ
+department
+dept
+corporation

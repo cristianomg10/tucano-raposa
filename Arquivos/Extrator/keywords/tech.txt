@@ -1,0 +1,9 @@
+tech
+rep
+rpt
+tr
+ph
+phd
+thesis
+dissertation
+report

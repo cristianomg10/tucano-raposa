@@ -1,0 +1,255 @@
+<Pesquisadores>
+
+	<Pesquisador>
+		<Nome> Nivio Ziviani </Nome>
+		<Publicacoes>
+			<Pub> Exploratory and Interactive Daily Deals Recommendation </Pub>
+			<Pub> Using Mutual Influence to Improve Recommendations </Pub>
+			<Pub> A New Approach for Verifying URL Uniqueness in Web Crawlers </Pub>
+			<Pub> The Evolution of Web Content and Search Engines </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> José Marcos Silva Nogueira </Nome>
+		<Publicacoes>
+			<Pub> Transmission Power Control Techniques for Wireless Sensor Networks </Pub>
+			<Pub> On the Design of a Self-Managed Wireless Sensor Network </Pub>
+			<Pub> Network Management as a Strategy for Evolution and Development </Pub>
+			<Pub> Data dissemination in autonomic wireless sensor networks </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Renato Martins Assunção </Nome>
+		<Publicacoes>
+			<Pub> Optimal Generalized Truncated Sequential Monte Carlo Test </Pub>
+			<Pub> Uncovering the location of Twitter user </Pub>
+			<Pub> Bayesian spatial models with a mixture neighborhood structure </Pub>
+			<Pub> Product partition models with correlated parameters </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> William Robson Schwartz </Nome>
+		<Publicacoes>
+			<Pub> A Data-Driven Detection Optimization Framework </Pub>
+			<Pub> Semi-Supervised Dimensionality Reduction based on Partial Least Squares for Visual Analysis of High Dimensional Data </Pub>
+			<Pub> Evaluation of Feature Descriptors for Texture Classification </Pub>
+			<Pub> Fast and Scalable Enrollment for Face Identification based on Partial Least Squares </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+
+	<Pesquisador>
+		<Nome> Alexandre Salles da Cunha </Nome>
+		<Publicacoes>
+			<Pub> Branch-and-price algorithms for the Two-Echelon Capacitated Vehicle Routing Problem </Pub>
+			<Pub> The Pickup and Delivery Problem with Cross-Docking </Pub>
+			<Pub> Benders Decomposition, Branch-and-cut and Hybrid Algorithms for the Minimum Connected Dominating Set Problem </Pub>
+			<Pub> A Branch-and-cut-and-price algorithm for the Two-Echelon Capacitated Vehicle Routing Problem </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Yoshiharu Kohayakawa </Nome>
+		<Publicacoes>
+			<Pub> An algorithmic Friedman--Pippenger theorem on tree embeddings and applications </Pub>
+			<Pub> Small subsets inherit sparse $\epsilon$-regularity </Pub>
+			<Pub> An optimal algorithm for checking regularity </Pub>
+			<Pub> Hypergraphs, quasi-randomness, and conditions for regularity </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Marcelo Finger </Nome>
+		<Publicacoes>
+			<Pub> Approximations of modal logics: K and beyond </Pub>
+			<Pub> The universe of propositional approximations </Pub>
+			<Pub> Approximate and limited reasoning: Semantics, proof theory, expressivity and control </Pub>
+			<Pub> A logical reconstruction of temporal databases </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Alfredo Goldman Vel Lejbman </Nome>
+		<Publicacoes>
+			<Pub> Designing and Managing Agile Informative Workspaces: Discovering and Exploring Patterns </Pub>
+			<Pub> Combining parallel algorithms solving the same application: What is the best approach? </Pub>
+			<Pub> Malleable resource sharing for cooperative resolution of problems </Pub>
+			<Pub> Uncovering Steady Advances for an Extreme Programming Course </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Cristina Gomes Fernandes </Nome>
+		<Publicacoes>
+			<Pub> Second-Price Ad Auctions with Binary Bids and Markets with Good Competition </Pub>
+			<Pub> Intersecting Longest Paths </Pub>
+			<Pub> Maximum Series-Parallel Subgraph </Pub>
+			<Pub> A systematic approach to bound factor revealing LPs and its application to the Metric and Squared Metric Facility Location Problems </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Fabio Kon </Nome>
+		<Publicacoes>
+			<Pub> Interpretative Case Studies on Agile Team Productivity and Management </Pub>
+			<Pub> The Evolution of Agile Software Development in Brazil </Pub>
+			<Pub> Adaptive fault tolerance mechanisms for opportunistic environments: a mobile agent approach </Pub>
+			<Pub> Batching: A Design Pattern for Efficient and Flexible Client/Server Interaction </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Asu Ozdaglar </Nome>
+		<Publicacoes>
+			<Pub> Approximate Primal Solutions and Rate Analysis for Dual Subgradient Methods </Pub>
+			<Pub> Price and Capacity Competition </Pub>
+			<Pub> Competition and Efficiency in Congested Markets </Pub>
+			<Pub> Convergence Analysis of Distributed Subgradient Methods over Random Networks </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> William T. Freeman </Nome>
+		<Publicacoes>
+			<Pub> Accidental pinhole and pinspeck cameras: revealing the scene outside the picture </Pub>
+			<Pub> Where computer vision needs help from computer science </Pub>
+			<Pub> Search-and-Replace Editing for Personal Photo Collections </Pub>
+			<Pub> Part and Appearance Sharing: Recursive Compositional Models for Multi-View Multi-Object Detection </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Berthold Horn </Nome>
+		<Publicacoes>
+			<Pub> Interesting Eigenvectors of the Fourier Transform </Pub>
+			<Pub> Dynamic Reconstruction </Pub>
+			<Pub> Time to Contact Relative to a Planar Surface </Pub>
+			<Pub> Crowdsourcing urban air temperatures from smartphone battery temperatures  </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Bonnie Berger </Nome>
+		<Publicacoes>
+			<Pub> Computational Solutions for "Omics Data" </Pub>
+			<Pub> HapTree: A novel Bayesian Framework for Single Individual Polyplotyping using NGS Data </Pub>
+			<Pub> Compressive Genomics for Protein Databases </Pub>
+			<Pub> Optimizing a Global Alignment of Protein Interaction Networks </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Dina Katabi </Nome>
+		<Publicacoes>
+			<Pub> See Through Walls with Wi-Fi!  </Pub>
+			<Pub> A Cross-Layer Design for Wireless Software Defined Networks </Pub>
+			<Pub> Efficient and Reliable Low-Power Backscatter Networks </Pub>
+			<Pub> A Cloud-Assisted Design for Autonomous Driving </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Alex Aiken </Nome>
+		<Publicacoes>
+			<Pub> An Introduction to Data Representation Synthesis </Pub>
+			<Pub> Understanding the Behavior of Database Operations under Program Control </Pub>
+			<Pub> Language Support for Dynamic, Hierarchical Data Partitioning </Pub>
+			<Pub> A Data Driven Approach for Algebraic Loop Invariants </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+
+	<Pesquisador>
+		<Nome> Dan Boneh </Nome>
+		<Publicacoes>
+			<Pub> Attribute-Based Encryption for Arithmetic Circuits </Pub>
+			<Pub> Constrained Pseudorandom Functions and Their Applications </Pub>
+			<Pub> Key Homomorphic PRFs and Their Applications </Pub>
+			<Pub> Message-Locked Encryption for Lock-Dependent Messages </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Anshul Kundaje </Nome>
+		<Publicacoes>
+			<Pub> Large-scale quality analysis of published ChIP-seq data  </Pub>
+			<Pub> Extensive Variation in Chromatin States Across Humans </Pub>
+			<Pub> Architecture of the human regulatory network derived from ENCODE data </Pub>
+			<Pub> Ubiquitous heterogeneity and asymmetry of the chromatin environment at regulatory elements </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Jure Leskovec </Nome>
+		<Publicacoes>
+			<Pub> Uncovering the Structure and Temporal Dynamics of Information Propagation </Pub>
+			<Pub> Engaging with Massive Online Courses  </Pub>
+			<Pub> A computational approach to politeness with application to social factors </Pub>
+			<Pub> NIFTY: A System for Large Scale Information Flow Tracking and Clustering </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Silvio Savarese </Nome>
+		<Publicacoes>
+			<Pub> Object Detection by 3D Aspectlets and Occlusion Reasoning </Pub>
+			<Pub> Relating Things and Stuff via Object Property Interactions </Pub>
+			<Pub> Find the Best Path: an Efficient and Accurate Classifier for Image Hierarchies </Pub>
+			<Pub> Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Sanjeev Arora </Nome>
+		<Publicacoes>
+			<Pub> The Approximability of NP-hard problems </Pub>
+			<Pub> Approximations schemes for degree-restricted MST and Red-Blue separation problem </Pub>
+			<Pub> New approximation guarantees for Chromatic Number </Pub>
+			<Pub> Subexponential algorithms for Unique Games and Related Problems </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> David M. Blei </Nome>
+		<Publicacoes>
+			<Pub> Efficient online inference for Bayesian nonparametric relational models  </Pub>
+			<Pub> Efficient discovery of overlapping communities in massive networks  </Pub>
+			<Pub> Variational inference in nonconjugate models </Pub>
+			<Pub> Truncation-free stochastic variational inference for Bayesian nonparametric models </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Moses Charikar </Nome>
+		<Publicacoes>
+			<Pub> Tight Hardness Results for Minimizing Discrepancy </Pub>
+			<Pub> Improved Approximation Algorithms for Label Cover Problems </Pub>
+			<Pub> Efficiently matching sets of features with random histograms </Pub>
+			<Pub> On the Advantage over Random for Maximum Acyclic Subgraph </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Michael Freedman </Nome>
+		<Publicacoes>
+			<Pub> Scaling IP Multicast on Datacenter Topologies </Pub>
+			<Pub> Making Every Bit Count in Wide-Area Analytics </Pub>
+			<Pub> Languages for software-defined networks </Pub>
+			<Pub> Privacy and Integrity are Possible in the Untrusted Cloud </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+	<Pesquisador>
+		<Nome> Zeev Dvir </Nome>
+		<Publicacoes>
+			<Pub> Matching-Vector Families and LDCs Over Large Modulo </Pub>
+			<Pub> Incidence Theorems and Their Applications </Pub>
+			<Pub> Improved rank bounds for design matrices and a new proof of Kelly's theorem </Pub>
+			<Pub> Separating multilinear branching programs and formulas </Pub>
+		</Publicacoes>
+	</Pesquisador>
+
+</Pesquisadores>

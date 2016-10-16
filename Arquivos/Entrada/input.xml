@@ -1,0 +1,13 @@
+<Pesquisadores>
+
+	<Pesquisador>
+		<Nome> Nivio Ziviani </Nome>
+		<Publicacoes>
+			<Pub> Exploratory and Interactive Daily Deals Recommendation </Pub>
+			<Pub> Using Mutual Influence to Improve Recommendations </Pub>
+			<Pub> A New Approach for Verifying URL Uniqueness in Web Crawlers </Pub>
+			<Pub> The Evolution of Web Content and Search Engines </Pub>		
+		</Publicacoes>
+	</Pesquisador>
+
+</Pesquisadores>
