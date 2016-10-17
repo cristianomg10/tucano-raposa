@@ -45,15 +45,22 @@ Currently, Raposa and Tucano work together properly for Computer Science field a
 
 To make the project really useful also for other fields, such as Biology, it is highly recommended the addition of new sources of citations from Biology field. It is possible by creating a file called *citation-dataset.bib* containing a number of Bibtex-formatted citations and replace the already existent citation-dataset.bib, in the folder Arquivos\Extrator.
 
-Other form to do this is by using XML files. It is not obvious, but it is possible to use it by following the example, in the source-code (src\NovoExtrator\html\ExtractorHTML.java), line 79. If the XML file is similar to:
+Other form to do this is by using XML files. It is not obvious, but it is possible to use it by following the example, in the source-code (*src\NovoExtrator\html\ExtractorHTML.java*), line 79. If the XML file is similar to:
 
     <dblp>
-      <article key="journals/acta/BayerM72" mdate="2003-11-25">
-      <author>Rudolf Bayer</author>
-      <author>Edward M. McCreight</author>
-      <title>Organization and Maintenance
-      of Large Ordered Indices</title>
-      </article>
+    	<article mdate="2011-01-11" key="journals/acta/CalzarossaIS86">
+			<author>Maria Calzarossa</author>
+			<author>M. Italiani</author>
+			<author>Giuseppe Serazzi</author>
+			<title>A Workload Model Representative of Static and Dynamic Characteristics.</title>
+			<pages>255-266</pages>
+			<year>1986</year>
+			<volume>23</volume>
+			<journal>Acta Inf.</journal>
+			<number>3</number>
+			<url>db/journals/acta/acta23.html#CalzarossaIS86</url>
+			<ee>http://dx.doi.org/10.1007/BF00289113</ee>
+		</article>
     </dblp>
 
 with a few changes you can use it. Otherwise, you can develop your own method to deal with your specific XML. The methods related to obtaining data from Bibtex and XML files are in the file *src\NovoExtrator\filehandlers\FileHandler.java*.
