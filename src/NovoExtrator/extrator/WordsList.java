@@ -11,7 +11,6 @@ import java.io.File;
 /**
  * This class is a implementation of a linked list, with my own updates.
  *
- * @author cristiano
  */
 public class WordsList {
 

@@ -9,7 +9,6 @@ import java.util.LinkedList;
 
 /**
  * This class will contain informations about citations.
- * @author cristiano
  */
 public class Citations {
     private LinkedList<DataCitation> citations;

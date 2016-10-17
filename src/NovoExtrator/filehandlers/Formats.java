@@ -13,9 +13,8 @@ import java.util.LinkedList;
 import NovoExtrator.structures.HashToken;
 
 /**
- * Class Formats. His functionality is to load formats of citations from file.
+ * Class Formats. Its functionality is to load formats of citations from file.
  *
- * @author cristiano
  */
 public class Formats {
 

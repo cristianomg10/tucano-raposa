@@ -38,7 +38,6 @@ import NovoExtrator.structures.Storage;
 /**
  * This class creates the list, fixing it using heuristics.
  *
- * @author cristiano
  */
 public class ListCreator {
 

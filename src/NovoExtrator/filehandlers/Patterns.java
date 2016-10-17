@@ -16,7 +16,6 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author cristiano
  */
 public class Patterns {
 

@@ -35,7 +35,6 @@ import NovoExtrator.structures.HashExternOperations;
 
 /**
  * This class creates the list, fixing it using heuristics.
- * @author cristiano
  */
 public class ListCreator {
     private LinkedList<SuperClasse> wl;

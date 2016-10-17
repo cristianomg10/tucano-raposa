@@ -33,7 +33,6 @@ import javax.sound.midi.Soundbank;
 
 /**
  *
- * @author cristiano
  */
 public class ExtractorHTMLList {
 

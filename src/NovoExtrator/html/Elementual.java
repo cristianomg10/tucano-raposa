@@ -6,7 +6,6 @@ package NovoExtrator.html;
 
 /**
  *
- * @author cristiano
  */
 public class Elementual extends Element{
     private Element element;

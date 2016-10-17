@@ -24,7 +24,6 @@ import java.util.Set;
  * the type in question, such as current type, counter of occurrences and
  * probability.
  *
- * @author cristiano
  */
 public class FormatsCalculus {
 

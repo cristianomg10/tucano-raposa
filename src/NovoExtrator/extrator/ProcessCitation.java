@@ -22,9 +22,8 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Classe com objetivo principal de extrair as citações.
+ * Class which aim is to extract citations.
  *
- * @author cristiano
  *
  */
 public class ProcessCitation {
@@ -1469,7 +1468,6 @@ public class ProcessCitation {
             //System.exit(0);
 
             //cits = null;
-            //system.out.println("CRISTIANO");
             //system.out.println(Main.printLikeTreeSC(cits));
 
             cits.clear();

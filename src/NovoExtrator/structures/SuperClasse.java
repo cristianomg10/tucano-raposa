@@ -10,7 +10,6 @@ import java.io.Serializable;
 
 /**
  *
- * @author cristiano
  */
 public abstract class SuperClasse implements Serializable {
 }

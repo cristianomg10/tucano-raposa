@@ -22,7 +22,6 @@ import java.util.Set;
 
 /**
  *
- * @author cristiano
  */
 public class HashToken extends Hashtable implements Serializable {
 

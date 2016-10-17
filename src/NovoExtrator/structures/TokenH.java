@@ -10,7 +10,6 @@ import java.io.Serializable;
 
 /**
  *
- * @author cristiano
  */
 public class TokenH implements Serializable {
 

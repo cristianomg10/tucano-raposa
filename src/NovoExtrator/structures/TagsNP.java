@@ -11,7 +11,6 @@ import java.util.LinkedList;
 
 /**
  *
- * @author cristiano
  */
 public class TagsNP extends SuperClasse {
 

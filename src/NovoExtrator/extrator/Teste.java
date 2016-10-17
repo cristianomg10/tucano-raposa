@@ -24,7 +24,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author cristiano
  */
 public class Teste {
 

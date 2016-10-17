@@ -7,8 +7,7 @@ package NovoExtrator.html;
 import java.util.LinkedList;
 
 /**
- *
- * @author cristiano
+ * 
  */
 public class Element {
 

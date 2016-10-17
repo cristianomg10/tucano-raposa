@@ -7,7 +7,6 @@ package NovoExtrator.extrator;
 
 /**
  *
- * @author cristiano
  */
 public class ContentList {
     private ContentList ant     = null;

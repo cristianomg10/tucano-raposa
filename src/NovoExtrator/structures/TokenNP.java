@@ -7,7 +7,6 @@ package NovoExtrator.structures;
 
 /**
  *
- * @author cristiano
  */
 public class TokenNP extends SuperClasse {
 

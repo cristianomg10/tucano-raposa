@@ -28,7 +28,6 @@ import java.util.Set;
 
 /**
  *
- * @author cristiano
  */
 public class FileHandler {
 

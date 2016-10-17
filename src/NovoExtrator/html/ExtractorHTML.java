@@ -32,7 +32,6 @@ import NovoExtrator.structures.TokenNP;
 
 /**
  *
- * @author cristiano
  */
 public class ExtractorHTML {
 

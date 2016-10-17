@@ -6,7 +6,6 @@ package NovoExtrator.filehandlers;
 
 /**
  *
- * @author cristiano
  */
 public class TextHandler {
     

@@ -6,7 +6,6 @@ package NovoExtrator.html;
 
 /**
  *
- * @author cristiano
  */
 public class Textual extends Element{
 

@@ -36,10 +36,7 @@ import NovoExtrator.structures.PCitation;
 //import testeaudio.TesteAudio;
 
 /**
- * /media/7498DDE398DDA3C0/Documents and Settings/Cristiano/Meus
- * documentos/NetBeansProjects
  *
- * @author cristiano
  * @version
  *
  */
@@ -47,7 +44,7 @@ public class Main {
 
     public static void TestTags() {
         ListCreator lc = new ListCreator();
-        String s = "Cristiano : Mesquita <html><body><a href=''>Testando</a> Deu? </body><html> Teste";
+        String s = "FistName : SecondName <html><body><a href=''>Testing</a> Working? </body><html> Test";
         String[] sq = lc.getTextSplitedWithTag(s);
 
         for (String q : sq) {

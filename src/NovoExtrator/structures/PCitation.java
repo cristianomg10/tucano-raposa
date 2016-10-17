@@ -6,7 +6,6 @@ package NovoExtrator.structures;
 
 /**
  *
- * @author cristiano
  */
 public class PCitation {
 

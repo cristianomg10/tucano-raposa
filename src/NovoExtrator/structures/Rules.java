@@ -15,7 +15,6 @@ import NovoExtrator.structures.PCitation;
 
 /**
  *
- * @author cristiano
  */
 public class Rules {
 
