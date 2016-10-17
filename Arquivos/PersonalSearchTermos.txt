@@ -1,0 +1,24 @@
+curriculo
+curriculum vitae
+resume
+nome
+name
+endereço
+endereco
+address
+mail
+telefone
+fone
+phone
+tel
+fax
+contact
+contato       
+pesquisador
+researcher
+professor
+biography
+biografia
+publ
+publications
+citations

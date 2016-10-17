@@ -1,6 +1,9 @@
 # raposa-tucano
 This is the source code of the projects Raposa and Tucano, two tools joint together in a framework, described in the to-be-published article "A Framework to Collect and Extract Publication Lists of a Given Researcher from the Web".
 
+## prerequisites
+To run the code you will need Java JDK to compile and execute. The code was compiled without problems with Java version "1.8.0_40", therefore any version more recent will work. All libraries used by the code are already included in the code or in the Libraries folder. The Libraries folder contains JSOUP version "1.7.3", used to parse the html pages. The code is indenpendent of the operational system, hence both Linux and Windows machines can run it. You will also need an id and key to Google's Custom Search API (https://cse.google.com/cse/).
+
 ## how to use
 The tool receives two input files, one in XML format and the other as a text file. The XML file contains researchers and four of theirs publications, which are used to search for pages with publications lists of each one. The text file must contains two lines corresponding to information used in the search API. Fhe first one with the key and the second with the id of Google Custom Search API ([https://developers.google.com/custom-search/](https://developers.google.com/custom-search/)), necessary in the tool to realize the searches. Below is an example of how both files should be formatted:
 
@@ -35,16 +38,23 @@ Google Custom Search API info:
 HIzcSyC7iDOdUDDC8bbcTLzz2VMVwBW9sbzQcS3
 327923967239659376375:f5gkzbcm2sk
 
-In the folder XXXXXXX there are two files as example.
+In the folder Arquivos\Entrada there are two files as example.
 
-## functioning
+## creating your own dataset
+Currently, Raposa and Tucano work together properly for Computer Science field as our database (inverted-index) was created using Bibtex files and XML files (in this case, from DBLP ([http://dblp.uni-trier.de/xml/](http://dblp.uni-trier.de/xml/))). 
 
-The tool receives two input files, one with researchers and publications and the other with the API info. For each researcher provided, the tool will generate queries based on the four publications given as input, every query will be searched in the web through Google Custom Search, the first 10 results are retrieved and stored for further processing. In the code at the API call more results can requested. After the search each page is loaded together with its title, snippet, link and content. This information will be used by Tucano to inspect if it is a page with publications and information about the author. Inside Tucano functioning a call is made to Raposa to extract citations contained in the page, if it contains any. Raposa will load its data structures and files and analyse the page, the citations found in the page will be returned to Tucano for further evaluation. After receiving the citations, Tucano will continue its examination of the page, together with its info of the page (title, snippet, link and content). Using the aforementioned information about the page, Tucano will decide if the page is a publication lists page of the author or not.
+To make the project really useful also for other fields, such as Biology, it is highly recommended the addition of new sources of citations from Biology field. It is possible by creating a file called *citation-dataset.bib* containing a number of Bibtex-formatted citations and replace the already existent citation-dataset.bib, in the folder Arquivos\Extrator.
 
-## authors
-This work had been developed at **LICESA** (Lab. of Computational Intelligence and Autonomous Systems), located at **DCC** (Department of Computer Science), in **UFLA** (Federal University of Lavras / Brazil), and is authored by:
+Other form to do this is by using XML files. It is not obvious, but it is possible to use it by following the example, in the source-code (src\NovoExtrator\html\ExtractorHTML.java), line 79. If the XML file is similar to:
 
- - Prof. **Denilson Alves Pereira**, PhD. (denilsonpereira[at]dcc.ufla.br)  
- - **Armando Honório** (armdhp[at]gmail.com) - BSc. in Computer Science
- - **Cristiano M. Garcia** (cristiano.garcia[at]dgti.ufla.br) - BSc. in Information Systems
+    <dblp>
+      <article key="journals/acta/BayerM72" mdate="2003-11-25">
+      <author>Rudolf Bayer</author>
+      <author>Edward M. McCreight</author>
+      <title>Organization and Maintenance
+      of Large Ordered Indices</title>
+      </article>
+    </dblp>
 
+with a few changes you can use it. Otherwise, you can develop your own method to deal with your specific XML. The methods related to obtaining data from Bibtex and XML files are in the file *src\NovoExtrator\filehandlers\FileHandler.java*.
+  
